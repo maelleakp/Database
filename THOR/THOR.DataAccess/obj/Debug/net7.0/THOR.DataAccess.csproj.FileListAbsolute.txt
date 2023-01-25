@@ -1,0 +1,14 @@
+/Users/user/Projects/THOR/THOR.DataAccess/bin/Debug/net7.0/THOR.DataAccess.deps.json
+/Users/user/Projects/THOR/THOR.DataAccess/bin/Debug/net7.0/THOR.DataAccess.runtimeconfig.json
+/Users/user/Projects/THOR/THOR.DataAccess/bin/Debug/net7.0/THOR.DataAccess.dll
+/Users/user/Projects/THOR/THOR.DataAccess/bin/Debug/net7.0/THOR.DataAccess.pdb
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/THOR.DataAccess.csproj.AssemblyReference.cache
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/THOR.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/THOR.DataAccess.AssemblyInfoInputs.cache
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/THOR.DataAccess.AssemblyInfo.cs
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/THOR.DataAccess.csproj.CoreCompileInputs.cache
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/THOR.DataAccess.dll
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/refint/THOR.DataAccess.dll
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/THOR.DataAccess.pdb
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/THOR.DataAccess.genruntimeconfig.cache
+/Users/user/Projects/THOR/THOR.DataAccess/obj/Debug/net7.0/ref/THOR.DataAccess.dll
